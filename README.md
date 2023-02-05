@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khubaibahmed
 - 👀 I’m interested in ML and Information Theory
-- 🌱 I’m currently learning Multimodal NN
+- 🌱 I’m currently working on Multimodal NN
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 @khubaibahmed
 
